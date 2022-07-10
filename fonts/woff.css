@@ -1,8 +1,34 @@
 @font-face {
-	font-family: Acumin;
-	src: url(AcuminVariableConcept.woff);
+    font-family: "Acumin Variable Concept";
+    font-style: normal;
+    font-weight: normal;
+    src: url("AcuminVariableConcept.woff2") format("woff2"), url("AcuminVariableConcept.woff") format("woff"), url("AcuminVariableConcept.otf") format("opentype");
 }
+
 @font-face {
-	font-family: Bebas;
-	src: url(BebasNeuePro-Middle.woff);
+    font-family: "Bebas Neue Pro";
+    font-style: normal;
+    font-weight: normal;
+    src: url("BebasNeuePro-Regular.woff2") format("woff2"), url("BebasNeuePro-Regular.woff") format("woff"), url("BebasNeuePro-Regular.otf") format("opentype");
+}
+
+@font-face {
+    font-family: "Bebas Neue Pro";
+    font-style: normal;
+    font-weight: normal;
+    src: url("BebasNeuePro-Middle.woff2") format("woff2"), url("BebasNeuePro-Middle.woff") format("woff"), url("BebasNeuePro-Middle.otf") format("opentype");
+}
+
+@font-face {
+    font-family: "Bebas Neue Pro";
+    font-style: normal;
+    font-weight: normal;
+    src: url("BebasNeuePro-Light.woff2") format("woff2"), url("BebasNeuePro-Light.woff") format("woff"), url("BebasNeuePro-Light.otf") format("opentype");
+}
+
+@font-face {
+    font-family: "Bebas Neue Pro";
+    font-style: normal;
+    font-weight: bold;
+    src: url("BebasNeuePro-Bold.woff2") format("woff2"), url("BebasNeuePro-Bold.woff") format("woff"), url("BebasNeuePro-Bold.otf") format("opentype");
 }
